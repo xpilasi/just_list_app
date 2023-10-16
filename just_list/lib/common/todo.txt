@@ -1,0 +1,50 @@
+
+
+TODO:
+
+V1.0: OK
+
+V1.1:
+
+-   Undo para productos en listas OK
+-   AlertDialog para eliminar purchase rows OK
+-   Botón Save para listas OK
+-   AlertDialog para guardar listas   OK
+-   Diseño cuadrados iniciales OK
+-   Nueva caja para las historic purchases OK
+
+
+V2.02:
+
+-   Checklist para ordenar OK
+-   Cambio de icono app OK
+-   Build appk OK
+
+V2.05:
+
+-   Aumentar tamaño icono checked OK
+-   Clear button para textFields OK
+-   Botón desplegar menu en listBoard:OK
+    -   Ordenar por checkeados OK
+    -   Ordenar por alfabeto OK
+    -   Ordernar por creados OK
+
+V2.06:
+-   Settings screen:
+    -   About: version + Copyright
+-   SplashScreen OK
+-   ScrollController
+
+V2.10:
+
+-   Configurar cuenta Google desarrollador OK
+-   Generar keystore OK
+-   Firmar APP : android/app/build.gradle OK        
+-   Web: just list strikingly
+    -   Fotos promo:
+        -   4 screenshots + mokeup
+        -   small desc
+    -   Politica privacidad
+
+
+
