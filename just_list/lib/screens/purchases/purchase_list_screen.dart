@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:just_list/common/colors.dart';
+import 'package:just_list/common/sizes.dart';
 
-import '../../common/sizes.dart';
 import '../../controllers/dashboard_controller.dart';
 import '../../models/product_model.dart';
 
