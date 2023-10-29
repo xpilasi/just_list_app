@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_unnecessary_containers
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -54,8 +56,8 @@ class PurchaseListScreen extends StatelessWidget {
                     String price =
                         purchaseListActivated[index].productPrice.toString();
                     String product = purchaseListActivated[index].productName;
-                    String qty =
-                        purchaseListActivated[index].productQuantity.toString();
+                    // String qty =
+                    //     purchaseListActivated[index].productQuantity.toString();
                     double total = purchaseList[index].productQuantity *
                         purchaseListActivated[index].productPrice;
 
@@ -73,7 +75,7 @@ class PurchaseListScreen extends StatelessWidget {
                                   purchaseListActivated[index].productColor),
                               child: Text(
                                 product[0],
-                                style: TextStyle(color: tWhite),
+                                style: const TextStyle(color: tWhite),
                               )),
                           title: Text(product),
                           subtitle: Text("Un. price  : \$ $price"),
