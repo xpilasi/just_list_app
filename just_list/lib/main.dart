@@ -5,8 +5,6 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:just_list/models/list_model.dart';
 import 'package:just_list/models/product_model.dart';
 import 'package:just_list/models/saved_purchased_row.dart';
-import 'package:just_list/screens/dashboard/dashboard.dart';
-import 'package:just_list/screens/home_screen.dart';
 import 'package:just_list/screens/splash_screen/splash_screen.dart';
 import 'package:just_list/themes/app_theme.dart';
 
