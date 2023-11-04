@@ -100,7 +100,6 @@ class UpdateProductScreen extends StatelessWidget {
                         height: tDefaultMargin - 5,
                       ),
                       TextFormField(
-                        //initialValue: fullProduct.productQuantity.toString(),
                         keyboardType: TextInputType.number,
                         controller: updatedProductQty,
                         decoration: InputDecoration(
